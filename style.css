@@ -84,6 +84,7 @@ p:last-of-type {
     border-radius: 50%;
     border: none;
     transition: 0.4s ease-in-out;
+    cursor: pointer;
 }
 
 .generateBtn:hover {
